@@ -1,4 +1,4 @@
 ## The Joint Issue Tracker - A Halo Community initiative to improve the state of issue tracking.
 
-Currently discussion of toolkit bugs is largely confined to Discord or forums which are difficult to search and do not function well as issue trackers.
-We aim to change that by utilizing Github Issues to enable community reporting and discussion of bugs & workarounds.
+Discord and forums are bad for issue tracking because they are disjointed and hard to search. Lots of information is duplicated or lost entirely.
+This project uses GitHub issues to report, track, and discuss workarounds for toolkit bugs in a centralized and searchable place. Our hope is that this will make it easier for users to find solutions to issues, and make it easier for the developers to see what issues the community would like to see fixed the most.
